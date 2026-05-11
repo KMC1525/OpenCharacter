@@ -6,5 +6,5 @@ Examples:
 - Silly Tavern 
 - etc
 
-Warnings
+Warnings:
 This repository does not contain the character images to avoid taking up too much space. I recommend you find the images yourself.
